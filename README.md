@@ -5,9 +5,7 @@ This project is a part of the ADS-509 course in the Applied Data Science Program
 **-- Project Status: Completed**
 
 ## Installation
-The following instructions will help you clone the project onto your machine.
-
-First clone the repository onto your machine using the following command
+The following commands will help you clone the project onto your machine:
 
 git init
 
